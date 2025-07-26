@@ -6,4 +6,4 @@
   - [Sales Dashboard](https://github.com/Razan20696/Sales-Dashboard/blob/main/README.md)
 
 <b>Humanitrains needs & information gaps(Flash updates)</b>
-  - [Flash update reports](https://github.com/Razan20696/Sales-Dashboard/blob/main/README.md)
+  - [Flash update reports](https://github.com/Razan20696/Flash-reports)
